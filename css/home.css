@@ -1,0 +1,134 @@
+ul {
+    display: flex;
+}
+.row {
+    display: flex;
+}
+.menu li {
+    display: inline-block;
+    margin: 0 10px;
+}
+.logo {
+    color: black;
+    font-size: 40px;
+    font-family: Pacifico-Regular;
+    width: 50%;
+}
+.giorhang {
+    align-self: center;
+    margin-left: 11%;
+}
+.h-container.container {
+    max-width: 70%;
+    margin: auto;
+}
+header.header {
+    background: white;
+    padding: 10px 0;
+}
+
+.footer-widget {
+    background: bisque;
+    text-align: center;
+    margin-top: 7px;
+}
+.bass {
+    width: 1519px;
+    margin: auto;
+    margin-top: 0px;
+    margin-right: 0;
+}
+.menu {
+    align-self: center;
+}
+.card-img-overlay {
+    margin-top: 14%;
+    margin-inline: 11%;
+}
+div#next {
+    margin-top: 7%;
+    text-align: center;
+}
+._2_HP_DBL {
+    margin-top: 9%;
+}
+.card-deck {
+    margin-bottom: 13%;
+}
+h2._2xydk {
+    margin-bottom: 69px;
+    margin-top: 51px;
+    margin-left: 6%;
+}
+.card-deck {
+    width: 90%;
+    margin-inline: auto;
+}
+.abcc {
+    display: flex;
+    color: white;
+    background: #323a4d;
+}
+.footer-widget {
+    background: bisque;
+    text-align: center;
+    margin-top: 7px;
+}
+.\33 4ksd {
+    margin-left: 14%;
+    margin-right: 57%;
+    margin-top: 25%;
+}
+
+.col-md-6.col-6 {
+    margin-right: -36%;
+}
+
+.q37e {
+    margin-bottom: 7%;
+}
+.col-md-12 {
+    margin-inline: 12%;
+}
+h2._1BlINkts {
+    color: yellow;
+}
+form.fromm {
+    margin-top: 64%;
+}
+.lhars {
+    display: flex;
+    margin-top: 13%;
+}
+a {
+    margin-inline: -15%;
+    color: white;
+}
+.audio {
+    width: 60%;
+    margin-inline: auto;
+}
+h4.\33 -gsdf {
+    margin-left: 39%;
+    margin-top: 9%;
+}
+.d-none.d-md-flex.row {
+    width: 89%;
+    margin-inline: auto;
+}
+.text-black {
+    color: black;
+}
+@media screen {
+    .bass {
+        width: 100%;
+
+    }
+    .logo {
+        width: 36%;
+    }
+
+
+}
+
+
